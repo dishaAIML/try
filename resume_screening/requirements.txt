@@ -1,0 +1,14 @@
+pdfminer3
+pyresparser
+streamlit
+pandas
+pafy
+plotly
+pymysql
+streamlit-tags
+Pillow
+yt_dlp
+nltk
+pdfminer.six
+spacy==3.8.5
+installer returned a non-zero exit code
