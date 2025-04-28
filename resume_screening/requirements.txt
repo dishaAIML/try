@@ -11,4 +11,4 @@ yt_dlp
 nltk
 pdfminer.six
 spacy==3.8.5
-installer returned a non-zero exit code
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
