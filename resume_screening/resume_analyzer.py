@@ -86,6 +86,7 @@ def course_recommender(course_list):
 
 conn = pymysql.connect(
     host='localhost',
+    port=3307,
     user='root',
     password='dishashri08@',
     database='sra_database'
